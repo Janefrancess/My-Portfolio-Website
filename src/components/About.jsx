@@ -20,7 +20,7 @@ const AboutMePage = () => {
           <p className="text-lg text-gray-200 mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, turpis vel
             molestie ultricies, nunc risus bibendum orci, non dictum leo arcu sed urna.
-            Pellentesque habitant morbi
+            Pellentesque habitant morbi.
           </p>
         </div>
       </div>
