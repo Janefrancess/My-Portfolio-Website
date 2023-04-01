@@ -1,8 +1,7 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
+import html from "../assets/portfolio/html.png";
+import react from "../assets/portfolio/react.png";
 import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -10,11 +9,11 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: html,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: react,
     },
     {
       id: 3,
@@ -26,10 +25,6 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
       src: reactWeather,
     },
   ];

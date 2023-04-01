@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from "../assets/heroImage.webp";
+import ReactDev from "../assets/reactdev.jpeg";
 
 const AboutMePage = () => {
   return (
@@ -8,7 +8,7 @@ const AboutMePage = () => {
     className="bg-cyan-800 g-opacity-100 text-white">
       <div className="flex flex-col md:flex-row flex-col-reverse max-w-screen-lg p-4 mx-auto">
         <div className="md:w-2/3">
-          <img src={HeroImage} alt="myprofile" className=" w-50 h-50 mx-auto mb-4 rounded-3xl" />
+          <img src={ReactDev} alt="myprofile" className=" w-50 h-50 mx-auto mb-4 rounded-3xl" />
         </div>
         <div className="md:w-2/3 md:pl-8">
           <h1 className="text-4xl font-bold mb-4">Hi, I'm Stanley Chiamaka</h1>
