@@ -24,8 +24,8 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
-      href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
+      src: reactproj,
+      href: ["https://stanley-chi.vercel.app/", "https://github.com/Janefrancess/Stanley-Chi"],
     },
     {
       id: 5,
