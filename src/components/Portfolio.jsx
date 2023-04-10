@@ -15,7 +15,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: react,
-      href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess/Stanley-Chi"],
+      href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess/Stanley-Chi"],
     },
     {
       id: 3,
