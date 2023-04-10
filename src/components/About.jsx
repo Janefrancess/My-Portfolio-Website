@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDev from "../assets/reactdev.jpeg";
+import ReactDev from "../assets/reactdev.jpg";
 
 const AboutMePage = () => {
   return (
