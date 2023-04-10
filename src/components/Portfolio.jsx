@@ -1,6 +1,6 @@
 import React from "react";
 import html from "../assets/portfolio/html.png";
-import react from "../assets/portfolio/react.png";
+import reactproj from "../assets/portfolio/reactproj.png";
 import heybasshModular from "../assets/portfolio/heybassh-moduler.png";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
@@ -14,7 +14,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: react,
+      src: reactproj,
       href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess/Stanley-Chi"],
     },
     {
