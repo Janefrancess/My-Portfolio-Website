@@ -10,7 +10,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: html,
-      href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess"],
+      href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess/Portfolio"],
     },
     {
       id: 2,
