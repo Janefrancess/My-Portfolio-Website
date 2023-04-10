@@ -10,17 +10,17 @@ const Portfolio = () => {
     {
       id: 1,
       src: html,
-      href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess/Portfolio"],
+      href: ["https://stanleyport.vercel.app/", "https://github.com/Janefrancess/Portfolio"],
     },
     {
       id: 2,
       src: reactproj,
-      href: ["https://stanleyport.vercel.app", "https://github.com/Janefrancess/Stanley-Chi"],
+      href: ["https://stanley-chi.vercel.app/", "https://github.com/Janefrancess/Stanley-Chi"],
     },
     {
       id: 3,
       src: heybasshModular,
-      href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
+      href: ["https://heybassh.com/", "https://github.com/Janefrancess"],
     },
     {
       id: 4,

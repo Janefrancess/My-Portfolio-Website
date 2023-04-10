@@ -13,14 +13,14 @@ const AboutMePage = () => {
         <div className="md:w-2/3 md:pl-8">
           <h1 className="text-4xl font-bold mb-4">Hi, I'm Stanley Chiamaka</h1>
           <p className="text-lg text-gray-200 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, turpis vel
-            molestie ultricies, nunc risus bibendum orci, non dictum leo arcu sed urna.
-            tristique ipsum, sit amet sodales sem duis sagittis interdum elit.
+          I am a certified Frontend developer with 4 years of experience building and deploying web applications. 
+          I work on web applications using technologies like Html, Css, Javascript, Tailwind, React, Next JS and open to 
+          further learning.
           </p>
           <p className="text-lg text-gray-200 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, turpis vel
-            molestie ultricies, nunc risus bibendum orci, non dictum leo arcu sed urna.
-            Pellentesque habitant morbi.
+          I am a certified Frontend developer with 4 years of experience building and deploying web applications. 
+          I work on web applications using technologies like Html, Css, Javascript, Tailwind, React, Next JS and open to 
+          further learning.
           </p>
         </div>
       </div>
