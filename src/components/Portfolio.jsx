@@ -1,6 +1,10 @@
 import React from "react";
 import html from "../assets/portfolio/html.png";
+<<<<<<< HEAD
 import react from "../assets/portfolio/react.png";
+=======
+import reactproj from "../assets/portfolio/reactproj.png";
+>>>>>>> cb760c9cff53fb2b55492bb85bc6e897a6581062
 import heybasshModular from "../assets/portfolio/heybassh-moduler.png";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
@@ -10,22 +14,40 @@ const Portfolio = () => {
     {
       id: 1,
       src: html,
+<<<<<<< HEAD
       href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
     },
     {
       id: 2,
       src: react,
       href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
+=======
+      href: ["https://stanleyport.vercel.app/", "https://github.com/Janefrancess/Portfolio"],
+    },
+    {
+      id: 2,
+      src: reactproj,
+      href: ["https://stanley-chi.vercel.app/", "https://github.com/Janefrancess/Stanley-Chi"],
+>>>>>>> cb760c9cff53fb2b55492bb85bc6e897a6581062
     },
     {
       id: 3,
       src: heybasshModular,
+<<<<<<< HEAD
       href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
     },
     {
       id: 4,
       src: reactSmooth,
       href: ["https://github.com/Janefrancess", "https://github.com/Janefrancess"],
+=======
+      href: ["https://heybassh.com/", "https://github.com/Janefrancess"],
+    },
+    {
+      id: 4,
+      src: reactproj,
+      href: ["https://stanley-chi.vercel.app/", "https://github.com/Janefrancess/Stanley-Chi"],
+>>>>>>> cb760c9cff53fb2b55492bb85bc6e897a6581062
     },
     {
       id: 5,
